@@ -1,0 +1,48 @@
+
+a{
+    position: relative;
+    margin-left: 50px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+img
+{
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+div h3
+{
+    color: darkcyan;
+    margin-left: 10px;
+    font-weight: bold;
+}
+div
+{
+    color: white;
+}
+h1
+{
+    color: black;
+    margin-left: 10px;
+}
+
+li h6{
+    color: darkgrey;
+    font-size: 15px;
+
+}
+li{
+    list-style-type: circle;
+    color: darkcyan;
+}
+li p
+{
+    color: darkgrey;
+}
+p{
+    color: dimgray;
+}
